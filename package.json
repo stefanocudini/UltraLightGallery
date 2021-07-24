@@ -1,0 +1,25 @@
+{
+  "name": "ultra-light-gallery",
+  "version": "3.0.0",
+  "description": "Lightweight database-less Gallery written in PHP/Javascript",
+  "main": "ulg.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanocudini/UltraLightGallery.git"
+  },
+  "keywords": [
+	"php",
+    "web-gallery",
+    "thumbnails",
+    "photos"
+  ],
+  "author": "Stefano Cudini",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/stefanocudini/UltraLightGallery/issues"
+  },
+  "homepage": "http://easyblog.it/photos/demo/"
+}
