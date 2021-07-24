@@ -4,7 +4,7 @@ define('V', '3.0');
 define('VERSION','Ultra Light Gallery v'.V);
 /*
 	Copyright Stefano Cudini, since 08/12/2006
-	http://labs.easyblog.it/stefano-cudini/
+	https://opengeo.tech/stefano-cudini/
 	stefano.cudini@gmail.com
 */
 
@@ -2621,7 +2621,7 @@ function ulg_foot()
 {
   global $urls;
 ?>
-<a href="http://easyblog.it/photos/demo/"><?=VERSION?></a><br />
+<a href="https://github.com/stefanocudini/UltraLightGallery"><?=VERSION?></a><br />
 &copy;Copyright Stefano Cudini
 <?
 }
