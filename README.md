@@ -24,20 +24,20 @@ $ chmod -R 0775 gallery
 
 Navigate with browser to: *http://mysite.com/gallery/*
 
-![Image](https://raw.githubusercontent.com/stefanocudini/UltraLightGallery/master/_screenshots/slideshow.png)
+![Image](_screenshots/slideshow.png)
 
-![Image](https://raw.githubusercontent.com/stefanocudini/UltraLightGallery/master/_screenshots/crop.png)
+![Image](_screenshots/crop.png)
 
-![Image](https://raw.githubusercontent.com/stefanocudini/UltraLightGallery/master/_screenshots/delete.png)
+![Image](_screenshots/delete.png)
 
-![Image](https://raw.githubusercontent.com/stefanocudini/UltraLightGallery/master/_screenshots/order.png)
+![Image](_screenshots/order.png)
 
-![Image](https://raw.githubusercontent.com/stefanocudini/UltraLightGallery/master/_screenshots/desc.png)
+![Image](_screenshots/desc.png)
 
-![Image](https://raw.githubusercontent.com/stefanocudini/UltraLightGallery/master/_screenshots/rotate.png)
+![Image](_screenshots/rotate.png)
 
-![Image](https://raw.githubusercontent.com/stefanocudini/UltraLightGallery/master/_screenshots/upload.png)
+![Image](_screenshots/upload.png)
 
-![Image](https://raw.githubusercontent.com/stefanocudini/UltraLightGallery/master/_screenshots/calendar.png)
+![Image](_screenshots/calendar.png)
 
 
