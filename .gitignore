@@ -16,3 +16,5 @@
 *.html
 index.php
 config.php
+_html/*
+_trash/*
